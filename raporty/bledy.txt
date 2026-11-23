@@ -1,0 +1,5 @@
+ERROR;A02;utrata_pakietu
+ERROR;B03;blad_potwierdzenia
+ERROR;B05;rozlaczenie
+ERROR;D03;blad_ramki
+ERROR;D07;utrata_synchronizacji
